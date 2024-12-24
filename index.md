@@ -26,3 +26,16 @@ var myVar = "Hello, world!";
 ``` python3
 print(f"Hello World")
 ```
+# Step 4: Make a Task List
+
+## Example 1
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+## Example 2
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
